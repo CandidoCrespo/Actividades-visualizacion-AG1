@@ -1,6 +1,12 @@
 h1, h2 {
   font-family: Lato;
 }
-@media print {
-  .pagebreak{ page-break-before: always; }
+
+
+#viz1,#viz2{
+width: 40%;
+height: 200px;
 }
+
+
+
